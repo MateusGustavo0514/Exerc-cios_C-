@@ -1,2 +1,2 @@
 # Exercicios_C
-Listas de exercícios já realizadas da linguagem C
+Listas de exercícios já realizadas em linguagem C
